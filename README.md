@@ -207,7 +207,7 @@ Your site will be live in minutes!
 2. Go to [Netlify](https://app.netlify.com/start)
 3. Connect your repository
 4. Set build command: `npm run build`
-5. Set publish directory: `build`
+5. Set publish directory: `dist`
 6. Click "Deploy"
 
 ---
