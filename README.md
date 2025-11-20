@@ -1,15 +1,71 @@
 # 🚀 Tasawar Ali - Data Science Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://tasawar-ali-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Tasawarali110)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tasawar-ali-878497218)
+<div align="center">
 
-> A modern, interactive portfolio showcasing AI/ML projects, data science expertise, and professional experience.
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_Portfolio-2ea44f?style=for-the-badge)](https://tasawar-ali-portfolio.vercel.app)
 
-![Portfolio Preview](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=flat&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=flat&logo=tailwind-css)
+[![GitHub](https://img.shields.io/badge/GitHub-Tasawarali110-181717?style=for-the-badge&logo=github)](https://github.com/Tasawarali110)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tasawar-ali-878497218)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alitasawar605@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 [**🌐 VIEW LIVE DEMO →**](https://tasawar-ali-portfolio.vercel.app)
+
+### **https://tasawar-ali-portfolio.vercel.app**
+
+*A modern, interactive portfolio showcasing AI/ML projects, data science expertise, and professional experience.*
+
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-success?style=flat-square&logo=vercel)](https://tasawar-ali-portfolio.vercel.app)
+[![Build Status](https://img.shields.io/badge/Build-Passing-success?style=flat-square)](https://github.com/Tasawarali110/tasawar-ali-portfolio)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Built With
+
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-4.0-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📸 Portfolio Preview
+
+<div align="center">
+
+### 🌐 **[LIVE DEMO: https://tasawar-ali-portfolio.vercel.app](https://tasawar-ali-portfolio.vercel.app)**
+
+*Click the link above to explore the full interactive portfolio!*
+
+### ✨ Key Features:
+🎨 Modern Dark Theme | 📱 Fully Responsive | ⚡ Lightning Fast | 🎭 Smooth Animations
+
+</div>
+
+---
+
+## 🔗 Quick Links
+
+<div align="center">
+
+| 🌐 Live Portfolio | 💻 GitHub | 💼 LinkedIn | 📧 Email |
+|:---:|:---:|:---:|:---:|
+| [**Visit Site**](https://tasawar-ali-portfolio.vercel.app) | [**@Tasawarali110**](https://github.com/Tasawarali110) | [**Connect**](https://www.linkedin.com/in/tasawar-ali-878497218) | [**Contact**](mailto:alitasawar605@gmail.com) |
+
+</div>
 
 ---
 
@@ -190,13 +246,19 @@ tasawar-ali-portfolio/
 
 ---
 
-## 🌐 Deployment
+## 🌐 Live Deployment
 
-### Deploy to Vercel (Recommended)
+### ✅ Currently Deployed on Vercel
 
-1. Push your code to GitHub
+**Live URL:** [https://tasawar-ali-portfolio.vercel.app](https://tasawar-ali-portfolio.vercel.app)
+
+**Status:** 🟢 Live and Running
+
+### Deploy Your Own Version
+
+1. Fork this repository
 2. Go to [Vercel](https://vercel.com/new)
-3. Import your repository
+3. Import your forked repository
 4. Click "Deploy"
 
 Your site will be live in minutes!
