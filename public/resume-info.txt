@@ -1,0 +1,93 @@
+TASAWAR ALI
+Data Science Graduate | AI & Machine Learning Specialist
+
+CONTACT INFORMATION
+Email: alitasawar605@gmail.com
+Phone: +60 112 145 0810
+Location: Alor Setar, Kedah, Malaysia
+LinkedIn: linkedin.com/in/tasawar.ali.linkedin
+GitHub: github.com/tasawarali
+
+PROFESSIONAL SUMMARY
+Highly motivated and resilient Data Science graduate with robust academic foundation and hands-on experience in machine learning, natural language processing, and data analytics. Proven ability to lead projects from conception to completion, demonstrated through development of AI-powered chatbot for industrial training and Reinforcement Learning model for financial forecasting. Collaborative and adaptable problem-solver seeking to contribute technical expertise and strong service-oriented mindset to challenging roles in Data Science or advanced academic research.
+
+EDUCATION
+Bachelor of Computer Science with Honours (Major in Data Science)
+Albukhary International University, Alor Setar, Malaysia
+Oct 2022 – Dec 2025
+Thesis: "HarborHelper AI chatbot for training and assisting operators in Seaport Container Inspection"
+
+Higher Secondary Education Certificate (Pre-Engineering)
+IBA Public School Sukkur, Sukkur, Pakistan
+Aug 2016 – Oct 2020
+
+WORK EXPERIENCE
+
+Data Science Intern
+School of Computing and Informatics, Albukhary International University
+Apr 2025 – Oct 2025 | Alor Setar, Malaysia
+- Applied machine learning and statistical analysis techniques to real-world data
+- Gained end-to-end experience in data science lifecycle
+- Collaborated within academic team to solve complex problems
+
+Project Leader
+MilV ICT Volunteer Malaysia
+Oct 2023 – Present | Malaysia
+- Led volunteer initiative teaching coding and digital literacy to rural students
+- Designed and conducted engaging technical workshops
+- Developed leadership, communication, and project management skills
+
+Student Representative Council Member
+Albukhary International University
+2023 – 2024 | Alor Setar, Malaysia
+- Organized university sports events
+- Represented School of Computer Science student body
+- Served as liaison between students and faculty
+
+KEY PROJECTS
+
+HarborHelper AI Chatbot
+- Created NLP-based chatbot for seaport container inspection training
+- Implemented intent classification and context-aware responses
+- Designed complex JSON datasets for seamless integration
+
+Cryptocurrency Market Prediction using Reinforcement Learning
+- Developed PPO algorithm for Bitcoin price prediction
+- Processed high-frequency data from Yahoo Finance
+- Trained model on 1M+ timesteps with RSI, MACD indicators
+
+Handwritten Digit Recognition
+- Implemented Deep Neural Network using Keras and TensorFlow
+- Achieved high accuracy on MNIST dataset
+- Applied image preprocessing with OpenCV
+
+Sentiment Analysis of Emotional States
+- Built ML system for emotion classification from text
+- Used Logistic Regression and Random Forest
+- Created visualizations including WordClouds
+
+TECHNICAL SKILLS
+
+Programming: Python, R, SQL, Java
+ML/DL Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
+Data Processing: Pandas, NumPy, Matplotlib, Geoplotlib, ggplot2, Plotly
+NLP: Sentiment Analysis, Text Classification, Intent Recognition, GPT-3/GPT-4
+RL: Proximal Policy Optimization (PPO)
+BI Tools: MS Power BI, Tableau
+Other: HTML, Git, Microsoft Office Suite
+
+CERTIFICATIONS & AWARDS
+- MIV Excellence Award 2023 - Outstanding leadership in ICT volunteer program
+- Board Exam Qualification Award - Division A (top tier)
+- Social Media Sales and Marketing Certification
+- Student Ambassador Certification - AIU Week of Welcome 2023/2024
+
+LANGUAGES
+Native: Urdu, Sindhi
+Proficient (C1/C2): English, Hindi, Punjabi
+Independent (B1/B2): Hindi (Writing), Punjabi (Writing)
+
+INTERESTS
+- Intellectual Exploration: Reading religious texts, scientific literature, mathematics, poetry
+- Cultural Immersion: Engaged with individuals from 56+ countries
+- Health & Fitness: Disciplined weightlifting routine

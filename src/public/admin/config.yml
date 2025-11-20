@@ -1,0 +1,87 @@
+# Decap CMS Configuration
+# This is a template for future CMS integration
+# To use: Set up a Git repository and configure backend settings
+
+backend:
+  name: git-gateway
+  branch: main
+
+# Uncomment and configure for GitHub backend
+# backend:
+#   name: github
+#   repo: yourusername/your-portfolio-repo
+#   branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Project ID", name: "id", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Challenge", name: "challenge", widget: "text" }
+      - { label: "Technical Solution", name: "solution", widget: "text" }
+      - { label: "Tech Stack", name: "techStack", widget: "list" }
+      - { label: "Outcome", name: "outcome", widget: "text" }
+      - { label: "GitHub URL", name: "githubUrl", widget: "string", required: false }
+      - { label: "Live URL", name: "liveUrl", widget: "string", required: false }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
+      - label: "Visualization Type"
+        name: "visualizationType"
+        widget: "select"
+        options: ["sentiment", "prediction", "segmentation", "performance"]
+
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: []
+      - { label: "Featured Image", name: "featuredImage", widget: "image", required: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+
+  - name: "skills"
+    label: "Skills"
+    folder: "content/skills"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Category", name: "category", widget: "string" }
+      - label: "Skills"
+        name: "skills"
+        widget: "list"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Level", name: "level", widget: "number", min: 0, max: 100 }
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "Personal Information"
+        name: "personal"
+        file: "content/settings/personal.json"
+        fields:
+          - { label: "Full Name", name: "name", widget: "string" }
+          - { label: "Title/Tagline", name: "tagline", widget: "string" }
+          - { label: "Bio", name: "bio", widget: "text" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Phone", name: "phone", widget: "string", required: false }
+          - { label: "Location", name: "location", widget: "string" }
+          - { label: "LinkedIn", name: "linkedin", widget: "string" }
+          - { label: "GitHub", name: "github", widget: "string" }
+          - { label: "Profile Image", name: "profileImage", widget: "image" }
+          - { label: "Resume PDF", name: "resume", widget: "file", required: false }
