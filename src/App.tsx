@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import { Toaster } from './components/ui/sonner';
 import { Navigation } from './components/Navigation';
 import { Hero } from './components/Hero';
@@ -22,6 +23,7 @@ export default function App() {
       </main>
       <Footer />
       <Toaster position="top-right" theme="dark" />
+      <Analytics />
     </div>
   );
 }
